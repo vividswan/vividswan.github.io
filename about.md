@@ -42,5 +42,5 @@ titles:
 BOJ 526문제 풀이 업로드(20.07.08 기준)<br>
 2019 업사이클링 전기자전거 공유서비스 플랫폼 COMMUTE 활동 (학생 창업유망팀 선정 및 K-300 출정)<br>
 2019 구름 IDE에서 주관하는 개발자를 위한 활동 데벨업 활동 및 해커톤 참여와 1기 수료<br>
-2020 동아리 그룹웨어 제작 프로젝트([http://alcuk.co.kr/](http://alcuk.co.kr/))에 참여 (게시판 프론트엔드 작업)<br>
+2020 동아리 그룹웨어 제작 프로젝트 EZSET([https://github.com/Tekiter/EZSET](https://github.com/Tekiter/EZSET))에 참여 (게시판 프론트엔드 작업)<br>
 2020 가톨릭대학교 SOS class 튜터 활동(프래그래밍 및 실습 과목)<br>
