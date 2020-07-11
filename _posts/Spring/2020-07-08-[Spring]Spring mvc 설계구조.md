@@ -13,6 +13,8 @@ key: "[Spring] Spring mvc 설계구조"
 
 ### jsp & servlet에서 확장된 구조
 
+<!--more-->
+
 스프링에 대한 설계구조를 다음과 같이 나타낼 수 있다.<br>
 기존 jsp&servlet과 다르게 DispatcherServlet, HandlerMapping, HandlerAdapter, ViewResolver가 추가되었다.<br>
 
