@@ -28,6 +28,8 @@ titles:
 
 ## 개발공부 블로그
 
+My TIL(Today I Learned) Blog - Web Development, Algorithm Study💎
+
 ###### `since 2020.01.16 ~`
 
 알고리즘 및 개발공부를 하고 기록해두는 블로그입니다.  
