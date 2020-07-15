@@ -30,7 +30,8 @@ key: "[HTML/CSS] CSS layout 기능"
 
 - **left** : 좌측 끝에 배치
 - **right** : 우측 끝에 배치
-- **clear** 속성을 적용하면, float를 지정해 주었던 효과가 사리지게 됨
+- **clear** 속성을 다른 엘리먼트에 적용하면, float를 지정해 주었던 효과가 사리지게 됨
+- 자식이 float 속성이면 부모가 자식으로 인지하지 않지만, **overflow:auto;** 를 사용하면, 자식으로 인지
 
 ## box-model
 
