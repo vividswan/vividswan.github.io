@@ -1,13 +1,13 @@
 ---
 layout: article
-title: "[HTML/CSS] display, position, box-model, box-sizing"
+title: "[HTML/CSS] CSS layout 기능"
 tags:
-  - HTML/CSS]
+  - HTML/CSS
 date: 2020-07-14T08:06:00-05:00
-key: "[HTML/CSS] display, position, box-model, box-sizing"
+key: "[HTML/CSS] CSS layout 기능"
 ---
 
-## layout 작업
+## CSS layout 작업
 
 엘리먼트를 화면에 배치하는 것
 
@@ -26,6 +26,12 @@ key: "[HTML/CSS] display, position, box-model, box-sizing"
 - **relative** : 원래 자신이 위치하여야 할 곳을 기준으로 상대적인 곳
 - **fixed** : 스크롤 같은 것에 움직이지 않는 고정된 레이어
 
+## float
+
+- **left** : 좌측 끝에 배치
+- **right** : 우측 끝에 배치
+- **clear** 속성을 적용하면, float를 지정해 주었던 효과가 사리지게 됨
+
 ## box-model
 
 - **margin** : 엘리먼트 간 간격
@@ -34,4 +40,4 @@ key: "[HTML/CSS] display, position, box-model, box-sizing"
 
 ## box-sizing
 
-- **box-sizing의 border-box** : 내부의 엘리먼트 크기를 고정하면서 부모 엘리먼트의 padding 값을 늘릴 수 있음
+- **border-box** : 내부의 엘리먼트 크기를 고정하면서 부모 엘리먼트의 padding 값을 늘릴 수 있음
