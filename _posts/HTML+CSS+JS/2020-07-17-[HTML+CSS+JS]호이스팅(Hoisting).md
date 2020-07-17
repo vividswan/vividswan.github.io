@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "[HTML+CSS+JS] 호이스팅(Hoisting)"
+title: "[HTML/CSS/JS] 호이스팅(Hoisting)"
 tags:
   - HTML/CSS/JS
 date: 2020-07-17T08:06:00-05:00
-key: "[HTML+CSS+JS] 호이스팅(Hoisting)"
+key: "[HTML/CSS/JS] 호이스팅(Hoisting)"
 ---
 
 ## 호이스팅 (Hoisting)
