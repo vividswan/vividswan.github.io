@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "[HTML/CSS] CSS layout 기능"
+title: "[HTML/CSS/JS] CSS layout 기능"
 tags:
-  - HTML/CSS
+  - HTML/CSS/JS
 date: 2020-07-14T08:06:00-05:00
-key: "[HTML/CSS] CSS layout 기능"
+key: "[HTML/CSS/JS] CSS layout 기능"
 ---
 
 ## CSS layout 작업

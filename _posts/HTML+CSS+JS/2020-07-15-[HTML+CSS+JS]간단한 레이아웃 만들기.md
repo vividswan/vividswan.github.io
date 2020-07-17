@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "[HTML/CSS] 간단한 레이아웃 만들기"
+title: "[HTML/CSS/JS] 간단한 레이아웃 만들기"
 tags:
-  - HTML/CSS
+  - HTML/CSS/JS
 date: 2020-07-15T08:06:00-05:00
-key: "[HTML/CSS] 간단한 레이아웃 만들기"
+key: "[HTML/CSS/JS] 간단한 레이아웃 만들기"
 ---
 
 ## 간단한 레이아웃 작업
