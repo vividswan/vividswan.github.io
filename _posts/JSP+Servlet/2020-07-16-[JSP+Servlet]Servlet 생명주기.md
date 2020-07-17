@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "[JSP+Servlet] Servlet 생명주기"
+title: "[JSP/Servlet] Servlet 생명주기"
 tags:
   - JSP/Servlet
 date: 2020-07-16T08:06:00-05:00
-key: "[JSP+Servlet] Servlet 생명주기"
+key: "[JSP/Servlet] Servlet 생명주기"
 ---
 
 # Servlet 생명주기
