@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "[HTML/CSS/JS] DOM Tree를 사용한 HTML element 탐색.md"
+title: "[HTML/CSS/JS] DOM Tree를 사용한 HTML element 탐색"
 tags:
   - HTML/CSS/JS
 date: 2020-07-21T08:06:00-05:00
-key: "[HTML/CSS/JS] DOM Tree를 사용한 HTML element 탐색.md"
+key: "[HTML/CSS/JS] DOM Tree를 사용한 HTML element 탐색"
 ---
 
 ## DOM Tree를 사용한 HTML element 탐색.md
