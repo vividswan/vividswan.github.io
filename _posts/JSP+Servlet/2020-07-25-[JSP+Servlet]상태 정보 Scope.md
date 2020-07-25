@@ -17,7 +17,7 @@ Servelt과 JSP는 네 가지의 범위(**Application > Session > Request > Page*
 
 ## 공통 특성
 
-- setAttribue("자료 이름", 자료)로 변수를 저장하고, getAttribute(자료 이름)으로 변수를 불러온다.
+- `setAttribue("자료 이름", 자료)`로 변수를 저장하고, `getAttribute(자료 이름)`으로 변수를 불러온다.
 
 ## Page Scope
 
@@ -29,19 +29,19 @@ Servelt과 JSP는 네 가지의 범위(**Application > Session > Request > Page*
 ## Request Scope
 
 - 클라이언트가 보낸 요청에 대한 응답까지 유지된다.
-- Servlet에선 HttpServletRequest 객체를 이용하여 사용한다.
-- JSP에선 request 내장 객체를 이용해서 사용한다.
+- Servlet에선 `HttpServletRequest` 객체를 이용하여 사용한다.
+- JSP에선 `request` 내장 객체를 이용해서 사용한다.
 - Request Scope 상태 정보를 유지한 채로 다른 페이지로 전달할 때 forward를 이용한다.
 
 ## Session Scope
 
 - 클라이언트마다 상태 정보를 저장할 때 사용한다.
-- Servlet에서는 HttpSession 객체를 이용하여 사용한다.
-- JSP에서는 session 내장 객체를 이용해서 사용한다.
+- Servlet에서는 `HttpSession` 객체를 이용하여 사용한다.
+- JSP에서는 `session` 내장 객체를 이용해서 사용한다.
 
 ## Application Scope
 
 - 하나의 웹 어플리케이션이 시작되고 종료될 때까지 유지된다.
-- Servlet에서는 ServletContext 자료형의 getServletContext()를 이용하여 사용한다.
-- JSP에서는 application 내장 객체를 이용한다.
+- Servlet에서는 ServletContext 자료형의 `getServletContext()`를 이용하여 사용한다.
+- JSP에서는 `application` 내장 객체를 이용한다.
 - 모든 클라이언트들이 값을 공유한다.
