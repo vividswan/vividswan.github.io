@@ -11,7 +11,9 @@ key: "[JSP/Servlet] 상태 정보 Scope"
 
 <!--more-->
 
-Servelt과 JSP는 네 가지의 범위(**Application > Session > Request > Page**)에서 상태 정보를 저장하고 사용한다.
+Servelt과 JSP는 네 가지의 범위(**Application > Session > Request > Page**)에서 상태 정보를 저장하고 사용한다.<br>
+
+- 구성 <br>![](/assets/images/200725-1.png)
 
 ## 공통 특성
 
