@@ -1,9 +1,9 @@
 ---
-title: "[Spring] start.spring.io로 스프링 프로젝트 생성하기"
+title: "[Spring] start.spring.io로 프로젝트 생성"
 tags:
   - Spring
 date: 2020-07-31T08:06:00-05:00
-key: "[Spring] start.spring.io로 스프링 프로젝트 생성하기"
+key: "[Spring] start.spring.io로 프로젝트 생성"
 ---
 
 ## start.spring.io
@@ -30,7 +30,7 @@ start.spring.io로 손쉽게 스프링 프로젝트를 만들어본다.<br>
 ![3](/assets/images/200731-3.png)<br>
 프로젝트에 대한 정보를 입력하고, Jar, War의 패키징, JDK 버전을 설정한다.<br>
 
-![4](/assets/images/200731-3.png)<br>
+![4](/assets/images/200731-4.png)<br>
 의존성을 추가할 수 있다.<br>
 `Spring Web`과 `Thymeleaf`를 추가하였다.<br>
 
