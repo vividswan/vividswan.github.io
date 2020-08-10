@@ -29,7 +29,7 @@ testTable이 갖고 있는 자료들을 조회한다.<br>
 
 ### Update 명령어
 
-> UPDATE "테이블 이름" SET "column1 이름" = "column1 값", "column2 이름" = "column2 값" ... where "column 이름" = "column1 값";
+> UPDATE "테이블 이름" SET "column1 이름" = "column1 값", "column2 이름" = "column2 값" ... where "column 이름" = "column 값";
 
 위와 같은 명령어로 데이터의 자료를 수정할 수 있다.<br>
 **이때, where로 특정 값을 지정해 주지 않으면 테이블의 모든 값이 변한다.**<br>
@@ -47,7 +47,7 @@ testTable이 갖고 있는 자료들을 조회한다.<br>
 삭제는 수정과 다르게 따로 column에 대한 value를 정해주지 않아도 되기 때문에 간단하다.<br>
 **삭제도 반드시 where로 특정 값을 지정해 주어야 한다.**<br>
 
-> Delete from "테이블 이름" where "column 이름" = "column1 값";
+> Delete from "테이블 이름" where "column 이름" = "column 값";
 
 위와 같은 명령어로 데이터의 자료를 삭제할 수 있다.<br>
 
