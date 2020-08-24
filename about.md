@@ -33,7 +33,7 @@ My TIL(Today I Learned) Blog - Web Development, Algorithm Study💎
 ###### `since 2020.01.16 ~`
 
 알고리즘 및 개발공부를 하고 기록해두는 블로그입니다.  
-**C, C++, Java, Node.js, Vue.js, DB, JSP&Servlet, Spring ..**
+**C, C++, Java, Node.js, Vue.js, DB, JSP&Servlet, Spring, JPA, Computer Science, Algorithm ..**
 
 ---
 
@@ -47,3 +47,4 @@ BOJ 526문제 풀이 업로드(20.07.08 기준)<br>
 2020 동아리 그룹웨어 제작 프로젝트 EZSET([https://github.com/Tekiter/EZSET](https://github.com/Tekiter/EZSET))에 참여 (게시판 프론트엔드 작업)<br>
 2020 가톨릭대학교 SOS class 튜터 활동(프래그래밍 및 실습 과목)<br>
 2020 가톨릭대학교 교내 해커톤 "Catholic University Hackathon Project - 극도로 한정된 세계" 최우수상 수상<br>
+2020 컨버전스형 IT 연합 동아리 CADI 7기 Frontier<br>
