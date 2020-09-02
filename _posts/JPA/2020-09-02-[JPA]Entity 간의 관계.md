@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "[JPA] Entity들 간의 관계"
+title: "[JPA] Entity 간의 관계"
 tags:
   - JPA
 date: 2020-09-02T08:06:00-05:00
-key: "[JPA] Entity들 간의 관계"
+key: "[JPA] Entity 간의 관계"
 ---
 
 # Entity들 간의 관계
