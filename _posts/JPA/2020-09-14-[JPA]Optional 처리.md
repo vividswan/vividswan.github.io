@@ -38,7 +38,6 @@ orElseThrow()를 이용해서 User 도메인을 `findById()`로 찾을 때 Optio
 		User user = userRepository.findById(id).orElseThrow(new Supplier<IllegalArgumentException>() {
 			@Override
 			public IllegalArgumentException get() {
-				// TODO Auto-generated method stub
 				return new IllegalArgumentException("해당 ID의 user가 존재하지 않습니다. id : "+id);
 			}
 ```
@@ -46,6 +45,7 @@ orElseThrow의 제네릭이 Supplier이고, Supplier를 통해 `IllegalArgumentE
 그 뒤 Supplier의 get() 메서드를 오버라이딩하여 Error를 리턴해준다.<br>
 
 ### 람다식 
+
 ```java
 User user = userRepository.findById(id).orElseThrow(() -> {
 		 		return new IllegalArgumentException("해당 ID의 user가 존재하지 않습니다. id : "+id);
