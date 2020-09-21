@@ -1,9 +1,9 @@
 ---
-title: "[Spring] Mac OS에서 MySQL 한글 설정(UTF-8)"
+title: "[Database] Mac OS에서 MySQL 한글 설정(UTF-8)"
 tags:
-  - Spring
+  - Database
 date: 2020-09-21T08:06:00-05:00
-key: "[Spring] Mac OS에서 MySQL 한글 설정(UTF-8)"
+key: "[Database] Mac OS에서 MySQL 한글 설정(UTF-8)"
 ---
 
 # MySQL - UTF8 세팅
