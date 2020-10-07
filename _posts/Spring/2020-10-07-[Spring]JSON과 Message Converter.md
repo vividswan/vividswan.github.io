@@ -2,7 +2,7 @@
 title: "[Spring] JSON과 Message Converter"
 tags:
   - Spring
-date: 2020-10-06T08:06:00-05:00
+date: 2020-10-07T08:06:00-05:00
 key: "[Spring] JSON과 Message Converter"
 ---
 
