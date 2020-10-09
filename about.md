@@ -47,3 +47,4 @@ My TIL(Today I Learned) Blog - Web Development, Algorithm Study💎
 2020 1학기 가톨릭대학교 SOS class 튜터 활동(프로그래밍 및 실습 과목)<br>
 2020 가톨릭대학교 교내 해커톤 "Catholic University Hackathon Project - 극도로 한정된 세계" 최우수상 수상<br>
 2020 컨버전스형 IT 연합 동아리 CADI 7기 Frontier<br>
+2020 2학기 가톨릭대학교 SOS class 튜터 활동(컴퓨터와 프로그래밍 과목)<br>
