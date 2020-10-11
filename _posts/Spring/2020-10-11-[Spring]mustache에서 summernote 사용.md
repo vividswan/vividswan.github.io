@@ -148,7 +148,7 @@ mustache로 출력하기 전, 우선 데이터가 잘 전달되는지 JSON 형�
 ```
 
 model 객체로 데이터를 전송해 주고 mustache의 body 부분만 보면 다음 같이 작성할 수 있다.<br>
-**여기서 주의할 점은, summernote의 content 부분은 중괄호가 세 쌍으로 들어가야 한다!!**
+**여기서 주의할 점은, summernote의 content 부분은 중괄호가 세 쌍으로 들어가야 한다!!** <br>
 두 쌍으로 들어가면 mustache가 html 소스로 해석하지 않고 다시 컴파일하여 html의 내용을 text로 출력해 준다.<br>
 
 ### 두 개의 중괄호 일 때
