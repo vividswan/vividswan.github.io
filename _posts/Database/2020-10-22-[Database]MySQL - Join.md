@@ -32,12 +32,38 @@ MySQL에서 사용하는 Join(Inner Join, Equi Join, Outer Join)을 알아보자
 students와 teachers 테이블에서 tid가 동일한(교집합 영역) 튜플을 출력한다.<br>
 
 ## Equi Join
-Equi Join은 두 테이블 사이에서 attribute의 값이 같은 튜플을 출력하는 Join이고, 같지 않는 걸 출력하는 건 Non-Equi Join이다.<br>
+Equi Join은 두 테이블 사이에서 attribute의 값이 같은 튜플을 출력하는 Join이고, 같지 않은 걸 출력하는 건 Non-Equi Join이다.<br>
 
-> select * from students s, teachers t where s.tid = t.tid;
+> select * from students s, teachers t where s.tid = t.tid;<br>
+
+![4](/assets/images/201022-4.png)<br>
+
+where의 조건으로 equal을 이용한 equi join이다.<br>
+
+### Non-Equi Join
+
+> select * from students s, teachers t where s.tid != t.tid;<br>
+
+![5](/assets/images/201022-5.png)<br>
+non-equi join이다.<br>
+
 
 ## Outer Join
 
+Outer Join은 Left Join과 Right Join으로 나눠진다.<br>
+Left Join은 두 집합의 교집합 영역과 왼쪽 그래프의 일치하지 않는 영역도 출력한다.<br>
+Right Join은 두 집합의 교집합 영역과 오른쪽 그래프의 일치하지 않는 영역도 출력한다.<br>
+
 ### Left Join
 
+> select * from students s left join teachers t on s.tid = t.tid;<br>
+
+![6](/assets/images/201022-6.png)<br>
+
 ### Right Join
+
+> select * from students s right join teachers t on s.tid = t.tid;<br>
+
+![7](/assets/images/201022-7.png)<br>
+
+right join에서 위와 같이 tid 값이 2인 students는 없기 때문에 `null` 값으로 출력된다.<br>
