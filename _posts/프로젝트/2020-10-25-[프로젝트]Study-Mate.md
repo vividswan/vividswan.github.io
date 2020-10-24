@@ -6,11 +6,12 @@ date: 2020-10-25T08:06:00-05:00
 key: "[프로젝트] Study-Mate"
 ---
 
-> [전체 소스 https://github.com/vividswan/Study-Mate](https://github.com/vividswan/Study-Mate)
-
 # Study Mate
 ## Spring Boot, JPA(MySQL), Jquery
+<!--more-->
 ### ToDo List Web
+> [전체 소스 https://github.com/vividswan/Study-Mate](https://github.com/vividswan/Study-Mate)
+
 - - -
 
 ## 프로젝트 구성
