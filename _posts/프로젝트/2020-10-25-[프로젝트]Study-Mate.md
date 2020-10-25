@@ -1,7 +1,7 @@
 ---
 title: "[프로젝트] Study-Mate"
 tags:
-  - Spring
+  - 프로젝트
 date: 2020-10-25T08:06:00-05:00
 key: "[프로젝트] Study-Mate"
 ---
