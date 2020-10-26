@@ -16,7 +16,7 @@ key: "[프로젝트] Study-Mate"
 
 ## 프로젝트 구성
 
-![8](/assets/images/201025-8.png)<br>
+![8](/assets/images/201025-8.png)<br><br>
 ![9](/assets/images/201025-9.png)<br>
 
 - - -
