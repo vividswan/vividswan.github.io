@@ -8,7 +8,9 @@ key: "[프로젝트] Spring-Securit-Project"
 
 # Spring-JWT-Project
 ## Spring Boot(Gradle), JPA(MySQL), java-jwt, commons-codec
+<!--more-->
 
+> [전체 소스 https://github.com/vividswan/Spring-JWT](https://github.com/vividswan/Spring-JWT)
 - - -
 
 ## 프로젝트 구성
