@@ -2,7 +2,7 @@
 title: "[운영체제] ROM의 Boot Loader"
 tags:
   - 운영체제
-date: 2020-11-02T08:06:00-05:00
+date: 2020-11-01T08:06:00-05:00
 key: "[운영체제] ROM의 Boot Loader"
 ---
 
