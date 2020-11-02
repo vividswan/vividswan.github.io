@@ -80,7 +80,7 @@ bool comp(const pair<int, int> &a, const pair<int,int> &b) {
     return a.first < b.first;
 }
 int main(){
-    vector<pair<int,int>> adj= {{1,3},{2,5},{2,9},{9,20},{10,25},{5,2},{7,2},{8,9}};
+    vector<pair<int,int>> adj= { {1,3},{2,5},{2,9},{9,20},{10,25},{5,2},{7,2},{8,9} };
     sort(adj.begin(),adj.end());
     for(int i=0; i<adj.size();i++) cout << adj[i].first << ' ' << adj[i].second << " | ";
     // 1 3 | 2 5 | 2 9 | 5 2 | 7 2 | 8 9 | 9 20 | 10 25 | 
