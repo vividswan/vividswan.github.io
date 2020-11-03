@@ -1,9 +1,9 @@
 ---
-title: "[프로젝트] Spring-Securit-Project"
+title: "[프로젝트] Spring-JWT-Project"
 tags:
   - 프로젝트
 date: 2020-10-29T08:06:00-05:00
-key: "[프로젝트] Spring-Securit-Project"
+key: "[프로젝트] Spring-JWT-Project"
 ---
 
 # Spring-JWT-Project
