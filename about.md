@@ -24,7 +24,7 @@ titles:
   # @end locale config
 ---
 
-![](/assets/images/profile.jpeg)
+![](/assets/images/profile.png)
 
 ## 개발공부 블로그
 
