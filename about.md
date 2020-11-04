@@ -24,7 +24,7 @@ titles:
   # @end locale config
 ---
 
-![](/assets/images/profile.jpg){: .align-center width="250" height="250"}
+![](/assets/images/profile.jpeg)
 
 ## 개발공부 블로그
 
