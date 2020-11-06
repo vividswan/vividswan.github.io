@@ -44,7 +44,7 @@ H, W가 최대 20이므로 400칸이 나오고 이를 3으로 나누면 경우�
 #include <vector>
 using namespace std;
 vector<vector<int>> map;
-int nextMove[4][3][2] = { { {0,0},{1,0},{1,1}},{{0,0},{1,0},{1,-1}},{{0,0},{0,1},{1,1}},{{0,0},{0,1},{1,0} } };
+int nextMove[4][3][2] = { { {0,0},{1,0},{1,1} },{ {0,0},{1,0},{1,-1} },{ {0,0},{0,1},{1,1} },{ {0,0},{0,1},{1,0} } };
 bool isOk(vector<vector<int>>& map, int y, int x, int type ,int value );
 int chkMap(vector<vector<int>>& map);
 int c, h, w;
