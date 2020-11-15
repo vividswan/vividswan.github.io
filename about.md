@@ -50,3 +50,4 @@ My TIL(Today I Learned) Blog - Web Development, Algorithm Study💎
 2020 2학기 가톨릭대학교 SOS class 튜터 활동(컴퓨터와 프로그래밍 과목)<br>
 2020 한결컴퓨터학원 부천점 근무 (프로그래밍 강사)<br>
 2020 ACM-ICPC 예선 가톨릭대학교 교내 금상<br>
+2020 제 2회 가톨릭대학교 프로그래밍 경진대회(CCPC) 동상<br>
