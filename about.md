@@ -51,3 +51,4 @@ My TIL(Today I Learned) Blog - Web Development, Algorithm Study💎
 2020 한결컴퓨터학원 부천점 근무 (프로그래밍 강사)<br>
 2020 ACM-ICPC 예선 가톨릭대학교 교내 금상 수상<br>
 2020 제 2회 가톨릭대학교 프로그래밍 경진대회(CCPC) 동상 수상<br>
+2021.01~ ApexSoft 근무(솔루션사업부)
