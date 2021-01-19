@@ -193,5 +193,5 @@ class AccountControllerTest {
 }
 ```
 
-![2](/assets/images/210119-1.png)<br>
-테스트 코드가 통과되었다.<br>
+![2](/assets/images/210119-2.png)<br>
+테스트 코드가 패스되었다.<br>
