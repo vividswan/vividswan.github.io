@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "[AWS] EC2 접속 설정 (MAC OS)"
+title: "[AWS+배포] EC2 접속 설정 (MAC OS)"
 tags:
-  - AWS
+  - AWS+배포
 date: 2020-10-16T08:06:00-05:00
-key: "[AWS] EC2 접속 설정 (MAC OS)"
+key: "[AWS+배포] EC2 접속 설정 (MAC OS)"
 ---
 
 # EC2 접속 설정

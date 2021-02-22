@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "[AWS] EC2(Elastic Compute Cloud)"
+title: "[AWS+배포] EC2(Elastic Compute Cloud)"
 tags:
-  - AWS
+  - AWS+배포
 date: 2020-09-15T08:06:00-05:00
-key: "[AWS] EC2(Elastic Compute Cloud)"
+key: "[AWS+배포] EC2(Elastic Compute Cloud)"
 ---
 
 # EC2(Elastic Compute Cloud)
